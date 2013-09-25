@@ -1,6 +1,6 @@
 (defproject org.clojars.magomimmo/shoreleave-remote "0.3.1-SNAPSHOT"
   :description "A smarter client-side with ClojureScript : Shoreleave's rpc/xhr/jsonp facilities"
-  :url "https://github.com/magomimmo/shoreleave-remote/tree/clojars""
+  :url "https://github.com/magomimmo/shoreleave-remote/tree/clojars"
   :license {:name "Eclipse Public License - v 1.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
